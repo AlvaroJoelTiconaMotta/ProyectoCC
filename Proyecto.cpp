@@ -23,9 +23,9 @@ class Tienda
 		Tienda();
     void modificar_stock();
     void modificar_dispositivo();
-		void agregar_dispositivo() {}
-		void vender_dispositivo() {}
-		void mostrar_dispositivos();
+	void agregar_dispositivo() {}
+	void vender_dispositivo() {}
+	void mostrar_dispositivos();
     void buscar_dispositivo_marca();
 		void buscar_dispositivo_precio();
     void buscar_dispositivo_modelo();
