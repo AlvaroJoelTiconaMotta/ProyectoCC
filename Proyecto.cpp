@@ -2,7 +2,7 @@
 
 using namespace std;
 
-
+cout<<"probando probando 123"<<endl;
 class Dispositivo
 {
 	public:
